@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "shorter.length",
+      "type": "java.lang.String",
+      "description": "Description for shorter.length."
+  }
+] }
